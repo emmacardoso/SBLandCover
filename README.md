@@ -16,7 +16,7 @@ The data used in this analysis is derived from landsat 5 and polygons of sourthe
 ## Credit
 The project is based on materials developed by Chris Kibler, and was restructured by Ruth Oliver at UC Santa Barbara.
 
-## Repository and Zipped Data Contents
+## Repository Contents
 <pre>
 SBLandCover
     │   README.md
