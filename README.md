@@ -15,3 +15,42 @@ The data used in this analysis is derived from landsat 5 and polygons of sourthe
 
 ## Credit
 The project is based on materials developed by Chris Kibler, and was restructured by Ruth Oliver at UC Santa Barbara.
+
+## Repository and Zipped Data Contents
+<pre>
+SBLandCover
+    │   README.md
+    │   Rmd/Proj files
+    │   knitted .html
+    │   gitignore
+    │
+    └───data
+        │   trainingdata.shx
+        │   trainingdata.shp
+        │   trainingdata.qpj   
+        │   trainingdata.prj
+        │   trainingdata.dbf
+        │   trainingdata.cpg
+        │   SB_validation_points.shx
+        │   SB_validation_points.shp
+        │   SB_validation_points.qpj    
+        │   SB_validation_points.prj
+        │   SB_validation_points.dbf    
+        │   SB_county_south.shx
+        │   SB_county_south.shp
+        │   SB_county_south.sbx     
+        │   SB_county_south.sbn
+        │   SB_county_south.prj
+        │   SB_county_south.dbf
+        │   SB_county_south.cpg
+        └───landsat-data
+                     │
+                     │   LT05_L2SP_042036_20070925_20200829_02_T1_SR_B7.TIF
+                     │   LT05_L2SP_042036_20070925_20200829_02_T1_SR_B5.TIF
+                     │   LT05_L2SP_042036_20070925_20200829_02_T1_SR_B4.TIF
+                     │   LT05_L2SP_042036_20070925_20200829_02_T1_SR_B3.TIF
+                     │   LT05_L2SP_042036_20070925_20200829_02_T1_SR_B2.TIF
+                     │   LT05_L2SP_042036_20070925_20200829_02_T1_SR_B1.TIF
+        
+
+</pre>
