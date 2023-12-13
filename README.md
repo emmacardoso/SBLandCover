@@ -1,1 +1,1 @@
-# SBLandCover
+# Santa Barbara Land Cover Classification
