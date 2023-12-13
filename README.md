@@ -1,7 +1,7 @@
 # Santa Barbara Land Cover Classification
 
 ## Overview
-This repository contains code and documentation for a land cover analysis project focused on southern Santa Barbara County. The project utilizes remote sensing techniques, specifically a supervised approach using a decision tree classifier, to classify land cover types based on multi-spectral imagery.
+This repository contains rmarkdown code and rproject directory for a land cover analysis project focused on southern Santa Barbara County. The project utilizes remote sensing techniques, specifically a supervised approach using a decision tree classifier, to classify land cover types based on multi-spectral imagery.
 
 ## Background
 Remote sensing offers a valuable capability to distinguish various materials based on their spectral reflectance, enabling the identification of land cover types across extensive regions. This categorization is crucial for understanding the spatial distribution and dynamics of land cover, providing valuable insights into the effects of changing environmental conditions, especially under the influence of climate change.
