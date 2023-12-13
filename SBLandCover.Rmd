@@ -24,6 +24,7 @@ As residents of Santa Barbara, California, the purpose of this spectral analysis
 -   water\
 
 
+credit: this lab is based on a materials developed by Chris Kibler.
 
 [^glad]:Global Land Analysis and Discovery. (n.d.).  Land Cover Classification. https://glad.umd.edu/ard/land-cover-classification 
 
