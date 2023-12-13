@@ -14,4 +14,4 @@ As residents of Santa Barbara, California, our goal is to leverage multi-spectra
 The data used in this analysis is derived from landsat 5 and polygons of sourthern SB county that contain training data. The data folder was included in gitignore, but the raw data was uploaded to this repository in the "data" folder.
 
 ## Credit
-The project is based on materials developed by Chris Kibler, and was restructed by Ruth Oliver at UC Santa Barbara.
+The project is based on materials developed by Chris Kibler, and was restructured by Ruth Oliver at UC Santa Barbara.
